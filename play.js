@@ -1,55 +1,55 @@
-// Variables in Js can be defined using: const, let, var
-// The below will print kingsley
+// // Variables in Js can be defined using: const, let, var
+// // The below will print kingsley
 
-var name = "kingsley";
+// var name = "kingsley";
 
-console.log(name);
-
-
-// The below will still print kingsley
-
-let name = "kingsley";
-
-console.log(name);
+// console.log(name);
 
 
-// The below will still print kingsley
+// // The below will still print kingsley
 
-const name = "kingsley";
+// let name = "kingsley";
 
-console.log(name);
-
-
-
-// In javascript there is scope. When using let, you can no longer access the variable.
-
-{
-  let moo = "Moo"
-
-}
-
-console.log(moo);
+// console.log(name);
 
 
-// In javascript there is scope. When using var, you can access the variable.
+// // The below will still print kingsley
 
-{
-  var moo = "Moo"
+// const name = "kingsley";
 
-}
-
-console.log(moo);
+// console.log(name);
 
 
 
-// In javascript there is scope. When using const, you cannot access the variable. Also when defining the const, you would use Capital letters.
+// // In javascript there is scope. When using let, you can no longer access the variable.
 
-{
-  const MOO = "Moo"
+// {
+//   let moo = "Moo"
 
-}
+// }
 
-console.log(moo);
+// console.log(moo);
+
+
+// // In javascript there is scope. When using var, you can access the variable.
+
+// {
+//   var moo = "Moo"
+
+// }
+
+// console.log(moo);
+
+
+
+// // In javascript there is scope. When using const, you cannot access the variable. Also when defining the const, you would use Capital letters.
+
+// {
+//   const MOO = "Moo"
+
+// }
+
+// console.log(moo);
 
 // ************************************
 // Using var is more lenient than using const or let
