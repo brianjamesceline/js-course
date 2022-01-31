@@ -1,5 +1,5 @@
-# switch example
-================
+// # switch example
+// ================
 const INPUT = 'name';
 
 switch(INPUT) {
@@ -21,8 +21,8 @@ const count = [
   'Five',
 ]
 
-# switch example 2
-==================
+// # switch example 2
+// ==================
 switch (new Date().getDay()) {
   case 0:
     console.log("Sunday");
@@ -46,8 +46,8 @@ switch (new Date().getDay()) {
     console.log("Saturday");
 }
 
-# switch example 2
-==================
+// # switch example 2
+// ==================
 switch (new Date().getDay()) {
   case 0:
     console.log("Sunday");
@@ -71,6 +71,6 @@ switch (new Date().getDay()) {
     console.log("Saturday");
 }
 
-# further study
-===============
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+// # further study
+// ===============
+// // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch

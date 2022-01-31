@@ -1,6 +1,6 @@
 
-# while condition
-=================
+// # while condition
+// =================
 
 let i = 1;
 let n = 5;
@@ -10,8 +10,8 @@ while (i <= n) {
   i++;
 }
 
-# do while condition
-====================
+// # do while condition
+// ====================
 let i = 1;
 let n = 5;
 
@@ -20,12 +20,12 @@ do {
   i++;
 } while (i <= n);
 
-# infinite loop
-===============
+// # infinite loop
+// ===============
 while(true) {
   console.log('hello')
 }
 
-# further reading
-=================
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break
+// # further reading
+// =================
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break

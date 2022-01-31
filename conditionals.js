@@ -1,16 +1,16 @@
-# what are conditionals
+// # what are conditionals
 
-=======================
+// =======================
 
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
+// if (condition) {
+//   code to run if condition is true
+// } else {
+//   run some other code instead
+// }
 
-# Conditionals in action
+// # Conditionals in action
 
-========================
+// ========================
 let time = 7
 
 if (time < 12) {
@@ -21,7 +21,7 @@ if (time < 12) {
   console.log("Good evening");
 }
 
-# further reading
+// # further reading
 
-=================
-// https:developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+// =================
+// // https:developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
